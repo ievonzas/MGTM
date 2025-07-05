@@ -1,4 +1,5 @@
-MGTM - Millennial's Guide To Medicaments
+## MGTM - Millennial's Guide To Medicaments
+
 MGTM is a Python program that gives the most basic medical advice by recommending medications for common ailments. It pulls information from online sources and shows it in the terminal or sends it via email.
 
 DISCLAIMER: This is NOT professional medical advice. Always check with a doctor before taking any medication.
